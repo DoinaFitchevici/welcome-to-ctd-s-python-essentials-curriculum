@@ -7,11 +7,11 @@
   ],
   "finalProjectDetails": {
     "overview": "No final project specified.",
-    "planningResources": [],
-    "submissionInstructions": "No submission instructions provided.",
     "requirements": [
       "No requirements specified."
-    ]
+    ],
+    "submissionInstructions": "No submission instructions provided.",
+    "planningResources": []
   },
   "createdBy": {
     "name": "Doina Fitchevici",
@@ -22,6 +22,6 @@
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
   "remoteGithubUrl": "https://github.com/DoinaFitchevici/welcome-to-ctd-s-python-essentials-curriculum",
   "createdAt": "2025-08-08T11:23:42.494Z",
-  "updatedAt": "2025-08-08T11:23:43.685Z",
+  "updatedAt": "2025-08-08T11:27:35.853Z",
   "lessonCount": 16
 }

@@ -1,0 +1,27 @@
+{
+  "id": "6895de3ec9bd93e65ea8a71d",
+  "title": "Welcome to CTD's Python Essentials Curriculum!",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Doina Fitchevici",
+    "githubUsername": "DoinaFitchevici"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
+  "remoteGithubUrl": "https://github.com/DoinaFitchevici/welcome-to-ctd-s-python-essentials-curriculum",
+  "createdAt": "2025-08-08T11:23:42.494Z",
+  "updatedAt": "2025-08-08T11:23:43.685Z",
+  "lessonCount": 16
+}
